@@ -4,8 +4,6 @@ Bedrock Dedicated Server Addon Installer is a node tool used for automatically i
 
 https://www.minecraft.net/en-us/download/server/bedrock/
 
-For help reach out on discord @ http://discord.BedrockRealms.com
-
 ## Standard Users (command line tool)
 
 #### How to Install 
