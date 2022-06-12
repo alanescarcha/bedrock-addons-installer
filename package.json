@@ -1,0 +1,29 @@
+{
+  "name": "bedrock-addons-installer",
+  "version": "1.0.0",
+  "description": "Tool to install addons on a minecraft bedrock server automatically.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "bedrock-addons-installer": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanescarcha/bedrock-addons-installer.git"
+  },
+  "author": "Alan Escarcha <https://github.com/alanescarcha>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanescarcha/bedrock-addons-installer/issues"
+  },
+  "homepage": "https://github.com/alanescarcha/bedrock-addons-installer#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.14",
+    "chegs-simple-logger": "^1.0.0",
+    "fs-extra": "^8.1.0",
+    "strip-json-comments": "^3.1.1"
+  }
+}
